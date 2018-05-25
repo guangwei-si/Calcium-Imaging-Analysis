@@ -2,7 +2,7 @@ Calcium Imaging
 ===
 
 Calcium Imaging Analysis package
-- bioformat 
-- H5 files, load, view
-- Odor sequence, load and analysis
 - ROI tracking and proofreading
+- Odor sequence, load and analysis
+- bioformat, load .nd2 files
+- H5 files, load and view .h5 files
