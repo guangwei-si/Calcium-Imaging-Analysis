@@ -5,6 +5,7 @@ Calcium Imaging Analysis
 - Odor sequence
 - Bioformat, like .nd2 files
 - H5 files
+
 ===
 
 - run 'calcium_imaging_3D.m' to load movie and log file
